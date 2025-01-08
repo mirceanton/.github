@@ -22,14 +22,14 @@ These are repositories I use internally to streamline my work. They include reus
 
 These are tools and applications I've developed for public use. I hope they can help others as much as they help me!
 
-| Repository                                                                                     | Description                                                             |
-| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| [kubectl-switch](https://github.com/mirceanton/kubectl-switch)                                 | A tool for easily switching between Kubernetes contexts and namespaces. |
-| [external-dns-provider-mikrotik](https://github.com/mirceanton/external-dns-provider-mikrotik) | An ExternalDNS provider plugin for MikroTik devices.                    |
-| [talswitcher](https://github.com/mirceanton/talswitcher)                                       | A utility for managing TAL files in a multi-environment setup.          |
-| [containers](https://github.com/mirceanton/containers)                                         | A collection of containerized applications and services.                |
-| [helm-charts](https://github.com/mirceanton/helm-charts)                                       | Helm charts for deploying various applications.                         |
-| [gitops-toolkit](https://github.com/mirceanton/gitops-toolkit)                                 | A toolkit for implementing GitOps workflows.                            |
+| Repository                                                                                     | Description                                                                              |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [kubectl-switch](https://github.com/mirceanton/kubectl-switch)                                 | A tool for easily switching between Kubernetes contexts and namespaces.                  |
+| [external-dns-provider-mikrotik](https://github.com/mirceanton/external-dns-provider-mikrotik) | An ExternalDNS provider plugin for MikroTik devices.                                     |
+| [talswitcher](https://github.com/mirceanton/talswitcher)                                       | A utility for managing talosconfig files in a multi-cluster setup.                       |
+| [containers](https://github.com/mirceanton/containers)                                         | A collection of containerized applications and services.                                 |
+| [helm-charts](https://github.com/mirceanton/helm-charts)                                       | Helm charts for deploying various applications.                                          |
+| [gitops-toolkit](https://github.com/mirceanton/gitops-toolkit)                                 | A container packed with all of the tools I use to manage my GitOps-ified infrastructure. |
 
 ---
 
@@ -37,11 +37,11 @@ These are tools and applications I've developed for public use. I hope they can 
 
 These repositories help manage and configure my homelab setup, ensuring smooth operation and easy deployment.
 
-| Repository                                                             | Description                                             |
-| ---------------------------------------------------------------------- | ------------------------------------------------------- |
-| [mikrotik-terraform](https://github.com/mirceanton/mikrotik-terraform) | Terraform configurations for managing MikroTik routers. |
-| [home-ops](https://github.com/mirceanton/home-ops)                     | GitOps-based home infrastructure as code.               |
-| [website](https://github.com/mirceanton/website)                       | The repository for my personal website.                 |
+| Repository                                                             | Description                                                              |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [mikrotik-terraform](https://github.com/mirceanton/mikrotik-terraform) | Terraform configurations for managing my Mikrotik-powered home network.. |
+| [home-ops](https://github.com/mirceanton/home-ops)                     | GitOps repo for my home Kubernetes cluster.                              |
+| [website](https://github.com/mirceanton/website)                       | The repository for my personal website.                                  |
 
 ---
 
