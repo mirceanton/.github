@@ -43,11 +43,21 @@ These repositories help manage and configure my homelab setup, ensuring smooth o
 | [home-ops](https://github.com/mirceanton/home-ops)                     | GitOps repo for my home Kubernetes cluster.                              |
 | [website](https://github.com/mirceanton/website)                       | The repository for my personal website.                                  |
 
+
 ---
 
 ## 🤝 Contributing
 
 Feel free to explore these repositories, fork them, or contribute to any of the public projects. If you find something interesting or have any questions, don't hesitate to reach out!
+
+---
+
+## 🌐 Find Me Online
+
+You can also find me online here:
+
+- **My [blog](https://mirceanton.com)**
+- **My [YouTube Channel](https://www.youtube.com/@mirceanton)**
 
 ---
 
