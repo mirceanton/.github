@@ -6,18 +6,6 @@ Below, you'll find details about each category and links to the repositories wit
 
 ---
 
-## 🛠️ Internal Repositories
-
-These are repositories I use internally to streamline my work. They include reusable workflows, configurations, and other tools that support my development process.
-
-| Repository                                                             | Description                                                                                          |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [reusable-workflows](https://github.com/mirceanton/reusable-workflows) | A collection of reusable GitHub Actions workflows for consistent CI/CD pipelines across my projects. |
-| [renovate-config](https://github.com/mirceanton/renovate-config)       | Snippets of `renovate` configuration used to automate dependency management.                         |
-| [homebrew-taps](https://github.com/mirceanton/homebrew-taps)           | A monorepo for managing Homebrew taps for easy installation of my tools.                             |
-
----
-
 ## 🌍 Public Repositories
 
 These are tools and applications I've developed for public use. I hope they can help others as much as they help me!
@@ -43,6 +31,17 @@ These repositories help manage and configure my homelab setup, ensuring smooth o
 | [home-ops](https://github.com/mirceanton/home-ops)                     | GitOps repo for my home Kubernetes cluster.                              |
 | [website](https://github.com/mirceanton/website)                       | The repository for my personal website.                                  |
 
+---
+
+## 🛠️ Internal Repositories
+
+These are repositories I use internally to streamline my work. They include reusable workflows, configurations, and other tools that support my development process.
+
+| Repository                                                             | Description                                                                                          |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [reusable-workflows](https://github.com/mirceanton/reusable-workflows) | A collection of reusable GitHub Actions workflows for consistent CI/CD pipelines across my projects. |
+| [renovate-config](https://github.com/mirceanton/renovate-config)       | Snippets of `renovate` configuration used to automate dependency management.                         |
+| [homebrew-taps](https://github.com/mirceanton/homebrew-taps)           | A monorepo for managing Homebrew taps for easy installation of my tools.                             |
 
 ---
 
