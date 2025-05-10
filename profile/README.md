@@ -40,9 +40,20 @@ These are repositories I use internally to streamline my work. They include reus
 
 | Repository                                                             | Description                                                                                          |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [reusable-workflows](https://github.com/mirceanton/reusable-workflows) | A collection of reusable GitHub Actions workflows for consistent CI/CD pipelines across my projects. |
 | [renovate-config](https://github.com/mirceanton/renovate-config)       | Snippets of `renovate` configuration used to automate dependency management.                         |
 | [homebrew-taps](https://github.com/mirceanton/homebrew-taps)           | A monorepo for managing Homebrew taps for easy installation of my tools.                             |
+
+---
+
+## 🗃️ Archived Repositories
+
+These are repositories I used to use and maintain but have since stopped. They are now archived and read-only.
+
+| Repository                                                             | Description                                                                                          |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [ansible-collection](https://github.com/mirceanton/ansible-collection) | A collection of Ansible Roles and Playbooks I use to manage my homelab.                              |
+| [gitops-toolkit](https://github.com/mirceanton/gitops-toolkit)         | A container image with all of the tools I need to manage my GitOps-ified infrastructure.             |
+| [reusable-workflows](https://github.com/mirceanton/reusable-workflows) | A collection of reusable GitHub Actions workflows for consistent CI/CD pipelines across my projects. |
 
 ---
 
