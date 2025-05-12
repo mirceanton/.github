@@ -18,6 +18,7 @@ These are tools and applications I've developed for public use. I hope they can 
 | [tesmartctl](https://github.com/mirceanton/tesmartctl)                                         | A CLI program I use to control my TeSmart KVM switch.                                    |
 | [action-calver-release](https://github.com/mirceanton/action-calver-release)                   | A GitHub Action that creates new releases based on Calendar Versioning.                  |
 | [action-semver-release](https://github.com/mirceanton/action-semver-release)                   | A GitHub Action that creates new releases based on Semantic Versioning.                  |
+| [action-folder-matrix](https://github.com/mirceanton/action-folder-matrix)                     | GitHub Action to generate a matrix of subdirectories for parallelizing jobs.             |
 | [helm-charts](https://github.com/mirceanton/helm-charts)                                       | Helm charts for deploying various applications.                                          |
 
 ---
