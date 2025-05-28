@@ -10,16 +10,16 @@ Below, you'll find details about each category and links to the repositories wit
 
 These are tools and applications I've developed for public use. I hope they can help others as much as they help me!
 
-| Repository                                                                                     | Description                                                                              |
-| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| [external-dns-provider-mikrotik](https://github.com/mirceanton/external-dns-provider-mikrotik) | An ExternalDNS provider plugin for MikroTik devices.                                     |
-| [kubectl-switch](https://github.com/mirceanton/kubectl-switch)                                 | A tool for easily switching between Kubernetes contexts and namespaces.                  |
-| [talswitcher](https://github.com/mirceanton/talswitcher)                                       | A utility for managing talosconfig files in a multi-cluster setup.                       |
-| [tesmartctl](https://github.com/mirceanton/tesmartctl)                                         | A CLI program I use to control my TeSmart KVM switch.                                    |
-| [action-calver-release](https://github.com/mirceanton/action-calver-release)                   | A GitHub Action that creates new releases based on Calendar Versioning.                  |
-| [action-semver-release](https://github.com/mirceanton/action-semver-release)                   | A GitHub Action that creates new releases based on Semantic Versioning.                  |
-| [action-folder-matrix](https://github.com/mirceanton/action-folder-matrix)                     | GitHub Action to generate a matrix of subdirectories for parallelizing jobs.             |
-| [helm-charts](https://github.com/mirceanton/helm-charts)                                       | Helm charts for deploying various applications.                                          |
+| Repository                                                                                     | Description                                                                                                               |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| [external-dns-provider-mikrotik](https://github.com/mirceanton/external-dns-provider-mikrotik) | An ExternalDNS provider plugin for MikroTik devices.                                                                      |
+| [kubectl-switch](https://github.com/mirceanton/kubectl-switch)                                 | A tool for easily switching between Kubernetes contexts and namespaces.                                                   |
+| [talswitcher](https://github.com/mirceanton/talswitcher)                                       | A utility for managing talosconfig files in a multi-cluster setup.                                                        |
+| [tesmartctl](https://github.com/mirceanton/tesmartctl)                                         | A CLI program I use to control my TeSmart KVM switch.                                                                     |
+| [action-calver-release](https://github.com/mirceanton/action-calver-release)                   | A GitHub Action that creates new releases based on Calendar Versioning.                                                   |
+| [action-semver-metadata](https://github.com/mirceanton/action-semver-metadata)                 | A GitHub Action that creates the version number and release notes for a new SemVer release based on Conventional Commits. |
+| [action-folder-matrix](https://github.com/mirceanton/action-folder-matrix)                     | GitHub Action to generate a matrix of subdirectories for parallelizing jobs.                                              |
+| [helm-charts](https://github.com/mirceanton/helm-charts)                                       | Helm charts for deploying various applications.                                                                           |
 
 ---
 
@@ -39,10 +39,10 @@ These repositories help manage and configure my homelab setup, ensuring smooth o
 
 These are repositories I use internally to streamline my work. They include reusable workflows, configurations, and other tools that support my development process.
 
-| Repository                                                             | Description                                                                                          |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [renovate-config](https://github.com/mirceanton/renovate-config)       | Snippets of `renovate` configuration used to automate dependency management.                         |
-| [homebrew-taps](https://github.com/mirceanton/homebrew-taps)           | A monorepo for managing Homebrew taps for easy installation of my tools.                             |
+| Repository                                                       | Description                                                                  |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| [renovate-config](https://github.com/mirceanton/renovate-config) | Snippets of `renovate` configuration used to automate dependency management. |
+| [homebrew-taps](https://github.com/mirceanton/homebrew-taps)     | A monorepo for managing Homebrew taps for easy installation of my tools.     |
 
 ---
 
